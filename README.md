@@ -5,4 +5,4 @@
 
 'users/errorAsync' returns async error page
 
-'users/ankur' returns {"success": true, name : name}
+'users/ankur' returns {"success": true, name : ankur}
