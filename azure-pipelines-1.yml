@@ -9,13 +9,13 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '7ee5a913-e7c9-42b9-a508-78e27d0a4fd3'
+  azureSubscription: ''
   
   # Web app name
   webAppName: 'sootchy_demo'
   
   # Environment name
-  environmentName: ''
+  environmentName: 'Node'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
